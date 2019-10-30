@@ -37,7 +37,7 @@ public class SwaggerConfig {
     }
 
     private ApiInfo apiInfo() {
-    	springfox.documentation.service.Contact contact = new springfox.documentation.service.Contact("Praveen Moolan", "", "mln.prvn@gmail.com");
+    	springfox.documentation.service.Contact contact = new springfox.documentation.service.Contact("Praveen Moolan", "", "abranands01@gmail.com");
     	
         ApiInfo apiInfo = new  ApiInfoBuilder().title("Project manager api")
         		.description("This api contains discription of Project Manager Api")
